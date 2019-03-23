@@ -56,6 +56,7 @@ h1 {
 
 .employer {
 	border-bottom: 2px solid #d52d46;
+	margin-bottom: 0px;
 }
 
 .title {
@@ -63,5 +64,5 @@ h1 {
 }
 
 .duties {
-
+	margin-top: 20px
 }
